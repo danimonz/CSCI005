@@ -1,0 +1,11 @@
+Names: Emanuel Jarquin and Daniel Monzon
+Project: Connect 4 AI
+
+Desc: Our AI works based on a point system that assigns a value of either 100, 50, or 0 to every move
+available for the computer. 100 if the move is a winning move, 50 if the move does not result in a win
+or loss, and 0 if the move results in a loss. The computer then choses the move that has the highest score.
+Before each game, you are able select RIGHT, LEFT, or RANDOM and these options will represent your 
+tiebreaker type in the case of a tie game. To win this game you only have to connect four of your X's or O's
+in a row. The variant we added to this game is that if a column if filled up, it is cleared for the ext move.
+This rule is similar to the Tetris rule that clears rows as they fill up, only with a TWSIST! now the columns 
+are cleared as they fill up.

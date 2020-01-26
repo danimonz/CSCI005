@@ -1,0 +1,14 @@
+---
+:id: 17856106
+:submitters:
+- :name: Emanuel Jarquin
+  :email: ejarquin22@cmc.edu
+- :name: Danny
+  :email: dmonzon22@cmc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-05-04 02:32:17.694722000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-05-03 19:32:17.694722000 Z
+:status: processed
+:score: 100.0
